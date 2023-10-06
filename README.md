@@ -1,8 +1,7 @@
 # React + Vite
+Vite and SWC are a perfect combination for React projects because they can provide a fast and efficient development experience. Vite’s HMR feature allows changes to be reflected in the browser immediately, and SWC’s fast compilation times can speed up the build process.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Additionally, using Vite + SWC can reduce the size of the build output, which can improve the performance of your application.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Airbnb Experiences App
+A react project which covers Airbnb experiences App for learning purposes only
