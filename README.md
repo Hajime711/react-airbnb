@@ -1,7 +1,9 @@
-# React + Vite
-Vite and SWC are a perfect combination for React projects because they can provide a fast and efficient development experience. Vite’s HMR feature allows changes to be reflected in the browser immediately, and SWC’s fast compilation times can speed up the build process.
+# Tools and Technlogies
+React and Vite
+# Airbnb Experiences Clone
+A react project which covers Airbnb experiences clone for learning purposes only
 
-Additionally, using Vite + SWC can reduce the size of the build output, which can improve the performance of your application.
+You can run this as any other react project. since it only consists of a front-end, doesn't require any set up
+just clone the repo and run the react app to check out the preview 
 
-# Airbnb Experiences App
-A react project which covers Airbnb experiences App for learning purposes only
+![preview](image.png)
